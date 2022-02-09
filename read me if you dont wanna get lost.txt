@@ -1,0 +1,8 @@
+Ecto the discord bot, made to make your life much easier by providing answers to FAQ that you ask no need to wait for a moderator to answer your question! 
+i made it so it's really easy to setup and it's newbie friendly that means with no coding experience you can setup you're own FAQ bot for your server but you need to credit me
+so first of all open the single file and ignore all the code and select the text saying "Replace" select the Replace text but don't select the " symbols and put your question there
+and then select "ReplaceAns" and select ReplaceAns text but don't select the " symbols and then put your answer there and then make a bot in discord developer applications and host it
+that's all it's really easy
+
+Made by ANDrew028 
+You need to Credit me if you are gonna use this
